@@ -2,7 +2,8 @@
 This example demostrates that ionic ssr has visible flickering when switching between server and browser version
 
 It visualizes the loading process by showing the text "Server" and "Browser" in the app-header and on the page-header, depending of where the content was rendered.
-To see it in detail:
+
+**To see it in detail:**
  
 1) npm run build:ssr   (to have prod version with minimum bundle size)
 2) npm run serve:ssr
@@ -11,12 +12,13 @@ To see it in detail:
      -> blank page when swapping between server side rendered page and client side rendered page
 
 
-This Example has been made in comparison to the complete same app in angular alone:
+
+This Example has been made **in comparison** to the complete same app in angular alone:
 https://github.com/KevinBassaDevelopment/angular-ssr-no-flickering-example
 
 In comparison to angular alone, ionic leads to 2 visible steps when changing from server to browser version.
 
-The deployed examples can be compared here:
+The **live examples** can be compared here:
 
 https://angular-ssr.bassa-solutions.at/
 
