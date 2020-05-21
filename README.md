@@ -16,7 +16,7 @@ It visualizes the loading process by showing the text "Server" and "Browser" in 
 This Example has been made **in comparison** to the complete same app in angular alone:
 https://github.com/KevinBassaDevelopment/angular-ssr-no-flickering-example
 
-In comparison to angular alone, ionic leads to 2 visible steps when changing from server to browser version.
+In comparison to angular alone, using ionic introduces 2 visible steps when changing from server to browser version.
 
 The **live examples** can be compared here:
 
