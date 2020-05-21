@@ -15,3 +15,9 @@ This Example has been made in comparison to the complete same app in angular alo
 https://github.com/KevinBassaDevelopment/angular-ssr-no-flickering-example
 
 In comparison to angular alone, ionic leads to 2 visible steps when changing from server to browser version.
+
+The deployed examples can be compared here:
+
+https://angular-ssr.bassa-solutions.at/
+
+https://ionic-ssr.bassa-solutions.at/
